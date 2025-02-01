@@ -24,4 +24,26 @@ Snapshot:
 
 END */
 
+/* Task 3 :
+
+Build an alarm clock app that allows users to set and manage alarms
+Home Screen: Display current time and date.
+
+Option to set a new alarm.
+
+Alarm Setting: Time picker to set the alarm time.
+
+Option to choose the alarm tone.
+
+Alarm Management: List of all set alarms with on/off toggle.
+Snooze and Dismiss: Snooze or dismiss the alarm when it rings.
+User Interface: User-friendly and visually appealing design.
+![Home_Page](https://github.com/user-attachments/assets/e3193820-042e-4572-8bc5-0eeb676da148)
+![Screenshot (117)](https://github.com/user-attachments/assets/1912427c-5cd3-4680-9cb9-a1854434e0c6)
+![Way to Set](https://github.com/user-attachments/assets/e32e14c3-37a1-4664-8959-e9c29b3b97c8)
+![Time Already Set](https://github.com/user-attachments/assets/8b121b53-21c1-4fa9-8775-e953451cb6f6)
+
+
+*/
+
 
